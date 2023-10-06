@@ -1,3 +1,4 @@
 # linear-sandbox
 
-- Just testinng PR
+- Just testing PR
+- and commit messages
